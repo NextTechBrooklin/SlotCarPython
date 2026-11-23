@@ -1,0 +1,5 @@
+# Runtime dependencies (install into the project venv - see setup_venv.ps1)
+bleak==3.1.0
+customtkinter==6.0.0
+pillow==13.0.0
+pygame-ce==2.5.8
